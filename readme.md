@@ -11,3 +11,8 @@ Structure:
 		"department": "Department name",
 		"credits": "Number of credits or 'Unavailable'"
 	}
+
+# Faculties & Departments
+
+These are just stored as an array of strings in _faculties.json_ and _departments.json_ respectively.
+
