@@ -1,6 +1,6 @@
 # Courses
 
-Courses are stored in _courses.json_. Currently it only has Undergraduate courses for Winter 2014. 
+Courses are stored in _courses\_{type}\_{semester\}.json_. Currently it only has Undergraduate courses for Winter 2014. 
 
 Structure:
 	
