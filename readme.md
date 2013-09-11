@@ -6,6 +6,7 @@ Structure:
 	
 	{
 		"name": "Course name",
+		"shortname": "Course short name (code and number)",
 		"link": "Direct link",
 		"faculty": "Faculty name",
 		"department": "Department name",
